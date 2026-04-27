@@ -1343,6 +1343,33 @@
                     container.appendChild(atmDiv);
                 }
             }
+
+            // Dove Mangiare
+            if (tappa.dove_mangiare && tappa.dove_mangiare.length > 0) {
+                const mangiareDiv = document.createElement('div');
+                mangiareDiv.className = 'esperienza-section fade-in fade-in-delay-3';
+                mangiareDiv.innerHTML = `
+                    <h3>🍽️ Dove Mangiare</h3>
+                    <div style="display: grid; gap: 16px;">
+                        ${tappa.dove_mangiare.map(luogo => `
+                            <div style="background: var(--bg-elevated); border: 1px solid var(--border-subtle); padding: 16px; border-radius: var(--radius-md);">
+                                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+                                    <h4 style="margin: 0; color: var(--text-primary); font-size: 1.1em;">${luogo.nome}</h4>
+                                    <span style="background: var(--accent-warm); color: var(--bg-deep); padding: 4px 8px; border-radius: 12px; font-size: 0.8em; font-weight: 600;">${luogo.fascia_prezzo}</span>
+                                </div>
+                                <p style="color: var(--text-secondary); font-size: 0.9em; margin-bottom: 8px;"><em>${luogo.tipo}</em></p>
+                                <p style="color: var(--text-secondary); font-size: 0.9em; margin-bottom: 12px;">${luogo.descrizione}</p>
+                                <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.8em; color: var(--text-muted);">
+                                    <span>🕐 ${luogo.orari}</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+                container.appendChild(mangiareDiv);
+            }
         }
 
         // ========================================

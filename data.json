@@ -88,7 +88,23 @@
             "accessibilita": "ingresso gratuito, accessibile a piedi",
             "orari_standard": "Sempre accessibile",
             "servizi": ["toilette", "ristorazione", "caffetteria", "negozi di artigianato", "alloggi", "commercio"  ]
-          }
+          },
+          "dove_mangiare": [
+            {
+              "nome": "Pasticceria Valzani",
+              "tipo": "Pasticceria",
+              "descrizione": "Storica bottega artigiana romana. Famosa per il Panpepato e i Diavoletti al peperoncino",
+              "fascia_prezzo": "€€",
+              "orari": "10:30-19:30, lunedì chiuso"
+            },
+            {
+              "nome": "Bar San Calisto",
+              "tipo": "Bar storico",
+              "descrizione": "Atmosfera autentica e prezzi accessibili.",
+              "fascia_prezzo": "€",
+              "orari": "06:30-01:30 tutti i giorni"
+            }
+          ]
         },
         {
           "numero": 2,
@@ -98,7 +114,7 @@
           "durata_visita_min": 180,
           "coordinate": [41.9011, 12.4831],
           "nome": "Fontana di Trevi",
-          "descrizione_breve": "Capolavoro del o italiano, situata nel centro della città, con la statua di Oceano su un cocchio a forma di conchiglia trainato da cavalli marini.",
+          "descrizione_breve": "Capolavoro del barocco italiano, situata nel centro della città, con la statua di Oceano su un cocchio a forma di conchiglia trainato da cavalli marini.",
           "indicazioni_arrivo": "Da Trastevere: bus Atac n.44 fino a Teatro Marcello (4 fermate) poi proseguire a piedi per 5 minuti fino a Piazza Venezia e poi ancora a piedi per 6 minuti. Oppure a piedi 34 min attraverso il centro storico. O in alternativa prendere un taxi o la linea 8 del tram fino a Arenula e proseguire a piedi per 15 minuti.",
           "tempo_spostamento_da_tappa_precedente": {
             "a_piedi": "34 min",
@@ -112,7 +128,7 @@
               "compositore": "Ottorino Respighi",
               "durata_sec": 320,
               "tonalita": "Mi bemolle maggiore",
-              "descrizione_musicale": "Il movimento più famoso è molto potente e festoso. I corni e le trombe fanno sentire tutta la grandezza di Nettuno, e l'orchestra cresce fino a un esplosivo crescendo che ricorda le cascate d'acqua. È come se Roma imperiale tornasse viva nel Barocco, forte e imponente, e il tema principale è diventato quasi un inno alla città.",
+              "descrizione_musicale": "Il movimento più famoso è molto potente e festoso. I corni e le trombe fanno sentire tutta la grandezza di Nettuno, e l'orchestra cresce fino a un esplosivo crescendo che ricorda le cascate d’acqua. È come se Roma imperiale tornasse viva nel Barocco, forte e imponente, e il tema principale è diventato quasi un inno alla città.",
               "strumenti_protagonisti": ["legni", "percussioni leggere", "archi", "ottoni"],
               "carattere": "maestoso, trionfale, solenne",
               "spotify_url": "https://open.spotify.com/intl-it/track/33GZwIfs542iPGehAGo8BS?si=ae89cae0618647c5",
@@ -162,7 +178,23 @@
             "accessibilita": "gratuito, per i residenti; €2,00 per i turisti (biglietto da acquistare in loco)",
             "orari_standard": "la fontana è sempre accessibile, ma il biglietto va acquistato durante gli orari di apertura del chiosco",
             "servizi": ["bar circostanti", "gelaterie famose", "negozi di souvenir"]
-          }
+          },
+          "dove_mangiare": [
+            {
+              "nome": "Mangia e Trevi",
+              "tipo": "Ristorante tradzionale",
+              "descrizione": "Autentico ristorante a conduzione familiare. Propone piatti tipici romani a prezzi accessibili, con un'atmosfera accogliente e informale.",
+              "fascia_prezzo": "€",
+              "orari": "07:00-23:00"
+            },
+            {
+              "nome": "Pastasciutta",
+              "tipo": "Ristorante",
+              "descrizione": "Offre pasta fresca artigianale in un ambiente informale",
+              "fascia_prezzo": "€€",
+              "orari": "11:00-22:00"
+            }
+          ]
         },
         {
           "numero": 3,
@@ -228,7 +260,6 @@
               "descrizione": "Grande piazza monumentale di forma ellittica, con un obelisco al centro e le chiese gemelle all'ingresso di Via del Corso. È uno spazio simmetrico e scenografico, pensato come porta d'accesso alla città."
             }
           },
-          
           "storia": "In epoca antica ra il punto d'ingresso a Roma dalla Via Flaminia; nel Medioevo la piazza diventa importante per l'arrivo dei pellegrini; viene costruita la chiesa di Santa Maria del Popolo; nel Seicento sotto i papi viene abbellita con interventi scenografici; nascono le chiese gemelle per creare un effetto monumentale all'ingresso della città; fine 1700 sotto i papi viene abbellita con interventi scenografici; nascono le chiese gemelle per creare un effetto monumentale all'ingresso della città.",
           "curiosita": "Caratterizzata da un divertente effetto sonoro: in alcuni punti specifici puoi percepire una specie di eco o ritorno del suono, oppure sentire meglio qualcuno che parla anche se non è vicino a te.",
           "metadata": {
@@ -236,7 +267,23 @@
             "orari_standard": "24/7",
             "servizi": ["bar e ristoranti","servizi igienici pubblici", "panchine e aree relax"],
             "warning": "Attenzione ai borseggiatori in zona affollata"
-          }
+          },
+          "dove_mangiare": [
+            {
+              "nome": "Terrazza Nainer",
+              "tipo": "Cocktail Bar",
+              "descrizione": "raffinato cocktail bar con vista panoramica su Piazza del Popolo.",
+              "fascia_prezzo": "€€",
+              "orari": "15:00-00:00 (lunedi-giovedì), 15:00-01:00 (venerdì), 12:30-01:00 (sabato), 12:30-00:00 (domenica)"
+            },
+            {
+              "nome": "Gelateria dei Gracchi",
+              "tipo": "Gelateria",
+              "descrizione": "Rinomata per il gelato artiginale di alta qualità",
+              "fascia_prezzo": "€",
+              "orari": "12:00-20:00"
+            }
+          ]
         },
         {
           "numero": 4,
@@ -304,7 +351,23 @@
             "orari_standard": "Sempre accessibile, ma i locali hanno orari variabili (dalle 10:00 alle 02:00 circa)",
             "orari_speciali_tramonto": "18:00-20:00 (ora dell'aperitivo, momento di maggiore vivacità)",
             "servizi": ["bar", "ristoranti", "negozi di lusso", "hotel di alta classe"]
-          }
+          },
+          "dove_mangiare": [
+            {
+              "nome": "Orvm",
+              "tipo": "Bar elegante",
+              "descrizione": "Iconico bar di Via Veneto, frequentato da celebrità. Cocktail eccellenti e atmosfera elegante.",
+              "fascia_prezzo": "€€€",
+              "orari": "09:30-01:00"
+            },
+            {
+              "nome": "VICI Bistrot e ristorante",
+              "tipo": "Caffè elegante",
+              "descrizione": "Caffè storico con pasticceria raffinata. Ottimo per un tè pomeridiano o un aperitivo.",
+              "fascia_prezzo": "€€",
+              "orari": "12:30-16:00 / 18:00-22:45"
+            }
+          ]
         }
       ],
       "mappa_percorso": {
