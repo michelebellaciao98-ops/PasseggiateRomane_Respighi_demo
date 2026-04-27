@@ -1358,12 +1358,11 @@
                                     <span style="background: var(--accent-warm); color: var(--bg-deep); padding: 4px 8px; border-radius: 12px; font-size: 0.8em; font-weight: 600;">${luogo.fascia_prezzo}</span>
                                 </div>
                                 <p style="color: var(--text-secondary); font-size: 0.9em; margin-bottom: 8px;"><em>${luogo.tipo}</em></p>
+                                <p style="color: var(--text-secondary); font-size: 0.9em; margin-bottom: 8px;"><strong>📍</strong> ${luogo.indirizzo || 'Indirizzo non disponibile'}</p>
                                 <p style="color: var(--text-secondary); font-size: 0.9em; margin-bottom: 12px;">${luogo.descrizione}</p>
                                 <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.8em; color: var(--text-muted);">
                                     <span>🕐 ${luogo.orari}</span>
-                                    
                                 </div>
-                                
                             </div>
                         `).join('')}
                     </div>

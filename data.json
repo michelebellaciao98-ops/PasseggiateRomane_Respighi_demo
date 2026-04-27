@@ -95,14 +95,16 @@
               "tipo": "Pasticceria",
               "descrizione": "Storica bottega artigiana romana. Famosa per il Panpepato e i Diavoletti al peperoncino",
               "fascia_prezzo": "€€",
-              "orari": "10:30-19:30, lunedì chiuso"
+              "orari": "10:30-19:30, lunedì chiuso",
+              "indirizzo": "Via del Moro, 37a/B, 00153 Roma RM"
             },
             {
               "nome": "Bar San Calisto",
               "tipo": "Bar storico",
               "descrizione": "Atmosfera autentica e prezzi accessibili.",
               "fascia_prezzo": "€",
-              "orari": "06:30-01:30 tutti i giorni"
+              "orari": "06:30-01:30 tutti i giorni",
+              "indirizzo": "Piazza di S. Calisto, 3, 00153 Roma RM"
             }
           ]
         },
@@ -185,14 +187,16 @@
               "tipo": "Ristorante tradzionale",
               "descrizione": "Autentico ristorante a conduzione familiare. Propone piatti tipici romani a prezzi accessibili, con un'atmosfera accogliente e informale.",
               "fascia_prezzo": "€",
-              "orari": "07:00-23:00"
+              "orari": "07:00-23:00",
+              "indirizzo": "Via delle Muratte, 93, 00187 Roma RM"
             },
             {
               "nome": "Pastasciutta",
               "tipo": "Ristorante",
               "descrizione": "Offre pasta fresca artigianale in un ambiente informale",
               "fascia_prezzo": "€€",
-              "orari": "11:00-22:00"
+              "orari": "11:00-22:00",
+              "indirizzo": "Largo Pietro di Brazza', 27, 00187 Roma RM"
             }
           ]
         },
@@ -274,14 +278,16 @@
               "tipo": "Cocktail Bar",
               "descrizione": "raffinato cocktail bar con vista panoramica su Piazza del Popolo.",
               "fascia_prezzo": "€€",
-              "orari": "15:00-00:00 (lunedi-giovedì), 15:00-01:00 (venerdì), 12:30-01:00 (sabato), 12:30-00:00 (domenica)"
+              "orari": "15:00-00:00 (lunedi-giovedì), 15:00-01:00 (venerdì), 12:30-01:00 (sabato), 12:30-00:00 (domenica)",
+              "indirizzo": "Via del Babuino, 196, 00187 Roma RM"
             },
             {
               "nome": "Gelateria dei Gracchi",
               "tipo": "Gelateria",
               "descrizione": "Rinomata per il gelato artiginale di alta qualità",
               "fascia_prezzo": "€",
-              "orari": "12:00-20:00"
+              "orari": "12:00-20:00",
+              "indirizzo": "Via di Ripetta, 261, 00186 Roma RM"
             }
           ]
         },
@@ -358,14 +364,16 @@
               "tipo": "Bar elegante",
               "descrizione": "Iconico bar di Via Veneto, frequentato da celebrità. Cocktail eccellenti e atmosfera elegante.",
               "fascia_prezzo": "€€€",
-              "orari": "09:30-01:00"
+              "orari": "09:30-01:00",
+              "indirizzo": "Via Vittorio Veneto, 125, 00187 Roma RM"
             },
             {
               "nome": "VICI Bistrot e ristorante",
               "tipo": "Caffè elegante",
               "descrizione": "Caffè storico con pasticceria raffinata. Ottimo per un tè pomeridiano o un aperitivo.",
               "fascia_prezzo": "€€",
-              "orari": "12:30-16:00 / 18:00-22:45"
+              "orari": "12:30-16:00 / 18:00-22:45",
+              "indirizzo": "Via Vittorio Veneto, 62, 00187 Roma RM"
             }
           ]
         }
