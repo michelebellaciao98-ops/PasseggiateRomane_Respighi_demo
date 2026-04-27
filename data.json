@@ -1,0 +1,335 @@
+{
+  "itinerari": [
+    {
+      "id": "itinerario_roma",
+      "nome": "LA ROMA RICOSTRUITA",
+      "sottotitolo": "Sulle tracce di Federico Fellini: un viaggio tra cinema e realtà nelle strade di Roma",
+      "personaggio": {
+        "nome": "Federico Fellini",
+        "anni": "1920-1993",
+        "professione": "Regista",
+        "nazionalita": "Italiana",
+        "biografia_breve": "regista e sceneggiatore italiano, celebre per film come: La dolce vita (1960), 8½ (1963) e Roma (1972). La sua opera è un omaggio alla città eterna, che ha rappresentato in modo visionario e poetico, mescolando realtà e fantasia.",
+        "immagine": "https://www.itabus.it/it/scoprire-roma.html",
+        "opere_correlate": [
+          "La dolce vita (1960)",
+          "8½ (1963)",
+          "Roma (1972)"
+        ]
+      },
+      "tema": "Cinema",
+      "categoria": "Arte e Cultura",
+      "durata_totale_ore": 9,
+      "difficolta": "facile",
+      "immagine_copertina": "https://www.itabus.it/it/scoprire-roma.html",
+      "distanza_totale_km": 5.5,
+      "periodo_consigliato": "Primavera/Estate",
+      "stagione_migliore": ["aprile", "maggio", "giugno", "settembre"],
+      "descrizione": "Segui le atmosfere del cinema di Federico Fellini attraverso i luoghi più evocativi della sua immaginazione e della sua vita. Ogni tappa richiama un film o un momento creativo, da vivere come una scena sospesa tra realtà e visione. Un percorso che intreccia memoria, sogno e spettacolo.",
+      "note_logistiche": "Iniziare all'alba richiede sveglia anticipata. Portare acqua, cappello e scarpe comode. Prevedere pause caffè tra le tappe.",
+      "accessibilita": "Non tutte le tappe sono accessibili con mezzi pubblici. Metro A per Piazza del Popolo (fermata Flaminio) e Via Vittorio Veneto (fermata Barberini), Atac n.75 da Termini per Trastevere e a piedi per la Fontana di Trevi.",
+      "costo_stimato": "Gratuito (eccetto Fontana di Trevi: costo biglietto per turisti e non residenti: €2,00)",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "Trastevere",
+          "orario_consigliato": "09:00",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 180,
+          "coordinate": [41.8898, 12.4742],
+          "nome": "Trastevere",
+          "descrizione_breve": "Uno dei quartieri più affascinanti e autentici di Roma, situato sulla riva occidentale del Tevere.",
+          "indicazioni_arrivo": "Dalla stazione Termini bus Atac n.75; scendere alla fermata Morosini poi a piedi per 3 minuti.",
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "I. Roma Capoccia",
+              "brano_completo": "Roma Capoccia- I movimento",
+              "compositore": "Antonello Venditti",
+              "durata_sec": 291,
+              "tonalita": "La maggiore, Re maggiore, Mi maggiore",
+              "organico": "pianoforte, basso, contrabbasso, chitarra classica, fiati, batteria leggera",
+              "anno_composizione": 1972,
+              "descrizione_musicale": "La canzone si apre con la voce calda e narrante di Venditti, accompagnata da pianoforte e chitarra acustica. Il basso e le percussioni leggere sostengono il ritmo, mentre occasionali fiati aggiungono colore e teatralità. L'atmosfera è popolare e romana, evocando i vicoli, le piazze e le storie della città, come se ogni nota raccontasse un frammento della vita di Roma. ",
+              "spotify_url": "https://open.spotify.com/intl-it/track/3XFEN4nrdCfdlVq7dtpbEf?si=2cac1789f9d4432c",
+              "youtube_url": "https://youtu.be/Q9PGiZDLnHI?si=n1-BWQkhwXxxhE8X",
+              "note_ascolto": "Ascoltare passeggiando in un vicolo illuminato da lampioni, per sentire la voce diventare “compagnia dei tuoi passi”."
+            },
+            "letteratura": {
+              "citazione": "Passeggiare per Roma è come camminare nella memoria stessa del mondo: ogni piazza, ogni colonna, ogni obelisco conserva il respiro di mille generazioni.",
+              "autore": "Stendhal",
+              "opera": "Roma, Napoli e Firenze",
+              "anno": 1817,
+              "contesto": "Stendhal descrive com'è passeggiare per Roma, perdendosi tra ."
+            },
+            "atmosfera": {
+              "momento": "mattino",
+              "luce": " leggermente dorata, morbida",
+              "suoni_ambiente": [
+                "le porte e le finestre che si aprono",
+                "i passi sui sampietrini",
+                "il borbottio dei bar che preparano il caffè"
+              ],
+              "temperatura_stimata": "18-22°C",
+              "affollamento": "minimo (orario pre-apertura)",
+              "consiglio_fotografico": "Ambiente perfetto per prospettive profonde nei vicoli, dettagli di porte e finestre, e giochi di luce e ombra.",
+              "emozione_target": "Nostalgia, quotidianità, intimità, pace"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Medievale, romanico, rinascimentale, barocco",
+              "architetti": ["Carlo Fontana", "Cimabue (affreschi)"],
+              "anno_costruzione": "IV secolo-XVII secolo",
+              "committente": "Nessun committente unico, sviluppo spontaneo",
+              "descrizione": "caratterizzato da un intricato labirinto di vicoli acciottolati, case colorate e piazzette vivaci, che conservano ancora oggi l’atmosfera della Roma popolare di un tempo."
+            }
+          },
+          "storia": "Il nome deriva dal latino trans Tiberim, ovvero «al di là del Tevere». Nato come zona popolare e artigiana, conserva vicoli acciottolati, piazzette e chiese storiche, ed è oggi famoso per la sua atmosfera autentica e vivace. .",
+          "curiosita": "Santa Maria in Trastevere è una delle chiese più antiche di Roma, famosa per i suoi mosaici dorati del XII secolo",
+          "metadata": {
+            "accessibilita": "ingresso gratuito, accessibile a piedi",
+            "orari_standard": "Sempre accessibile",
+            "servizi": ["toilette", "ristorazione", "caffetteria", "negozi di artigianato", "alloggi", "commercio"  ]
+          }
+        },
+        {
+          "numero": 2,
+          "poi_id": "trevi_fontana",
+          "orario_consigliato": "12:30",
+          "momento_giornata": "mezzogiorno",
+          "durata_visita_min": 180,
+          "coordinate": [41.9011, 12.4831],
+          "nome": "Fontana di Trevi",
+          "descrizione_breve": "Capolavoro del barocco italiano, situata nel centro della città, con la statua di Oceano su un cocchio a forma di conchiglia trainato da cavalli marini.",
+          "indicazioni_arrivo": "Da Trastevere: bus Atac n.44 fino a Teatro Marcello (4 fermate) poi proseguire a piedi per 5 minuti fino a Piazza Venezia e poi ancora a piedi per 6 minuti. Oppure a piedi 34 min attraverso il centro storico. O in alternativa prendere un taxi o la linea 8 del tram fino a Arenula e proseguire a piedi per 15 minuti.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "34 min",
+            "metro": "non disponibile",
+            "distanza_km": 2.4
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "II. La fontana di trevi al meriggio",
+              "brano_completo": "Fontane di Roma - II movimento",
+              "compositore": "Ottorino Respighi",
+              "durata_sec": 320,
+              "tonalita": "Mi bemolle maggiore",
+              "descrizione_musicale": "Il movimento più famoso è molto potente e festoso. I corni e le trombe fanno sentire tutta la grandezza di Nettuno, e l'orchestra cresce fino a un esplosivo crescendo che ricorda le cascate d'acqua. È come se Roma imperiale tornasse viva nel Barocco, forte e imponente, e il tema principale è diventato quasi un inno alla città.",
+              "strumenti_protagonisti": ["legni", "percussioni leggere", "archi", "ottoni"],
+              "carattere": "maestoso, trionfale, solenne",
+              "spotify_url": "https://open.spotify.com/intl-it/track/33GZwIfs542iPGehAGo8BS?si=ae89cae0618647c5",
+              "youtube_url": "https://youtu.be/PIPsdXd9zLY?si=huWy9zVACRu5n4_u",
+              "note_ascolto": "Presta attenzione a come Respighi usa strumenti diversi per evocare immagini specifiche: i fiati e gli archi spesso imitano il “moto ondoso” dell'acqua, mentre gli ottoni sottolineano la grandiosità della scena."
+            },
+            "letteratura": {
+              "citazione": "Trevi non è una fontana: è un teatro, un poema, un miracolo barocco dove l'acqua diventa architettura e l'architettura diventa sogno.",
+              "autore": "Federico Fellini",
+              "opera": "Intervista sul film La Dolce Vita",
+              "anno": 1960,
+              "contesto": "Fellini spiega perché ha scelto Trevi per l'iconica scena con Anita Ekberg."
+            },
+            "atmosfera": {
+              "momento": "mezzogiorno",
+              "luce": "brillante e nitida",
+              "suoni_ambiente": [
+                "suono dell'acqua delle cascate",
+                "voci dei turisti",
+                "musica di strada (artisti)",
+                "suono delle monete che cadono in acqua"
+              ],
+              "temperatura_stimata": "24-28°C",
+              "affollamento": "molto alto",
+              "consiglio_fotografico": "Non scattare sempre frontalmente: prova angolazioni laterali o dettagli scultorei per evitare la folla.",
+              "emozione_target": "vitalità, meraviglia"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Barocco Tardo",
+              "scultore": "Pietro Bracci (Nettuno), Filippo della Valle",
+              "anno_costruzione": "1732-1762",
+              "committente": "Papa Clemente XII",
+              "materiali": "Travertino, marmo di Carrara, bronzo, calcestruzzo",
+              "altezza_m": 26,
+              "larghezza_m": 49,
+              "descrizione": "La fontana è un imponente palazzo-fontana che trasforma la facciata posteriore di Palazzo Poli in un'allegoria del dominio sulle acque. Al centro, Nettuno su un cocchio a forma di conchiglia trainato da cavalli marini rappresenta il potere papale sulle acque, mentre le figure allegoriche ai lati simboleggiano l'abbondanza e la salute. L'acqua sgorga da numerose fonti, creando un effetto scenografico che ha ispirato artisti e registi per secoli."
+            }
+          },
+          "storia": "La fontana sorge sul punto terminale dell'Acquedotto dell'Acqua Vergine, costruito da Agrippa nel 19 a.C. Il progetto fu vinto da Nicola Salvi nel 1732 dopo un concorso che vide la partecipazione di Bernini (rifiutato). La costruzione durò 30 anni, con numerosi cambiamenti e controversie, fino al completamento nel 1762.",
+          "curiosita": "Trevi deriva da “trivium”, cioè l'incrocio di tre strade che un tempo si incontravano proprio in questa zona.",
+          "leggende": [
+            "Lanciare 1 moneta: ritornerai a Roma",
+            "Lanciare 2 monete: troverai l'amore",
+            "Lanciare 3 monete: ti sposerai"
+          ],
+          "metadata": {
+            "accessibilita": "gratuito, per i residenti; €2,00 per i turisti (biglietto da acquistare in loco)",
+            "orari_standard": "la fontana è sempre accessibile, ma il biglietto va acquistato durante gli orari di apertura del chiosco",
+            "servizi": ["bar circostanti", "gelaterie famose", "negozi di souvenir"]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "piazza_del_popolo",
+          "orario_consigliato": "15:30",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 90,
+          "coordinate": [41.9107, 12.4764],
+          "nome": "Piazza del Popolo",
+          "descrizione_breve": "Una delle piazze più famose e ampie della città, situata all'ingresso nord del centro storico.",
+          "indicazioni_arrivo": "a piedi da Trevi attraverso Via del Corso; oppure tramite via del Babuino",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "20 min",
+            "distanza_km": 1.4
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "III. Piazza del Popolo ",
+              "brano_completo": " Piazza del Popolo - III movimento",
+              "compositore": "Claudio Baglioni",
+              "durata_sec": 118,
+              "tonalita": "Do maggiore",
+              "descrizione_musicale": "La canzone inizia con chitarra e voce calda che danno l'idea di passeggiare per la piazza. Gli archi e i fiati rendono l'atmosfera vivace, e nel ritornello l'orchestra cresce in un crescendo emozionante, come se tutta Piazza del Popolo prendesse vita. Il tema principale sembra un piccolo inno a Roma e alla sua grandezza.",
+              "carattere": "vivace, festoso",
+              "spotify_url": "https://open.spotify.com/intl-it/track/7CLSl2Q58J8RWyp0rod3jD?si=31d01a27f03b46af",
+              "youtube_url": "https://youtu.be/7ULFSDCySLs?si=AxcUrywJyTprKDMQ",
+              "note_ascolto": "Immagina la piazza mentre ascolti, visualizza i monumenti, le fontane e la folla: questo aiuta a capire perché il brano sembra un inno a Roma."
+            },
+            "letteratura": {
+              "citazione": "Mi rivedo con Picasso mentre tornavamo di notte dall'Albergo Minerva…al nostro albergo in Piazza del Popolo. Preferivamo la Roma al chiaro di luna perché di notte si vede come è fatta una città.",
+              "autore": "Jean Cocteau",
+              "opera": "Il mio primo viaggio (Mon Premier Voyage)",
+              "anno": 1936,
+              "contesto": "Cocteau descrive un momento notturno a Roma, passeggiando con Pablo Picasso verso l'albergo dopo una serata fuori."
+            },
+            "cinema": {
+              "film": "La Dolce Vita",
+              "regista": "Federico Fellini",
+              "anno": 1960,
+              "scena": "Marcello Mastroianni e Maddalena incontrano una prostituta in auto proprio in Piazza del Popolo, mostrando così la vita notturna e trasgressiva della Roma anni '60.",
+              "descrizione": "la piazza appare quasi vuota. Fellini la mostra di notte, con l'auto di Marcello e Maddalena in primo piano, poche luci dei lampioni e una sensazione di spazio ampio e quasi deserto. Questo vuoto accentua l'isolamento dei personaggi e mette in risalto la figura della prostituta, rendendo la scena più intima e poetica"
+            },
+            "atmosfera": {
+              "momento": "pomeriggio",
+              "luce": "ombre minime, massima brillantezza del marmo e dei sampietrini",
+              "suoni_ambiente": [
+                "suono dell'acqua della fontana",
+                "voci di centinaia di turisti",
+                "musica di strada (artisti)"
+              ],
+              "temperatura_stimata": "21-24°C (caldo pieno)",
+              "affollamento": "molto alto (picco turistico)",
+              "consiglio_fotografico": "Sfrutta le linee della piazza. I ciottoli, l'obelisco e le chiese gemelle formano linee e simmetrie perfette per foto architettoniche. Un obiettivo grandangolare ti aiuterà a catturare tutta la scena.",
+              "emozione_target": "Stupore, meraviglia, libertà"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Neoclassico, Barocco, Rinascimentale",
+              "architetto": "Bernini (primi progetti scenografici), Giuseppe Valadier (ristrutturazione), Carlo Rainaldi (chiese gemelle)",
+              "scultori": [" Giovanni Ceccarini (Fontana del Nettuno, Fontana della dea Roma)"],
+              "anno_costruzione": "XVIII secolo - XIX secolo",
+              "committente": "Papa Pio VII (ristrutturazione), Papa Alessandro VII (fontane)",
+              "superficie": "17.000 m²",
+              "descrizione": "Grande piazza monumentale di forma ellittica, con un obelisco al centro e le chiese gemelle all'ingresso di Via del Corso. È uno spazio simmetrico e scenografico, pensato come porta d'accesso alla città."
+            }
+          },
+          
+          "storia": "In epoca antica ra il punto d'ingresso a Roma dalla Via Flaminia; nel Medioevo la piazza diventa importante per l'arrivo dei pellegrini; viene costruita la chiesa di Santa Maria del Popolo; nel Seicento sotto i papi viene abbellita con interventi scenografici; nascono le chiese gemelle per creare un effetto monumentale all'ingresso della città; fine 1700 sotto i papi viene abbellita con interventi scenografici; nascono le chiese gemelle per creare un effetto monumentale all'ingresso della città.",
+          "curiosita": "Caratterizzata da un divertente effetto sonoro: in alcuni punti specifici puoi percepire una specie di eco o ritorno del suono, oppure sentire meglio qualcuno che parla anche se non è vicino a te.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": ["bar e ristoranti","servizi igienici pubblici", "panchine e aree relax"],
+            "warning": "Attenzione ai borseggiatori in zona affollata"
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "Via_Vittorio_Veneto",
+          "orario_consigliato": "18:00",
+          "momento_giornata": "tramonto",
+          "durata_visita_min": 90,
+          "coordinate": [41.90663, 12.490294],
+          "nome": "Via Vittorio Veneto",
+          "descrizione_breve": "Una delle strade più celebri e iconiche di Roma, simbolo indiscusso del glamour internazionale e dell'eleganza senza tempo. Famosa per i suoi caffè storici, i locali alla moda e le boutique di lusso.",
+          "indicazioni_arrivo": "A piedi tramite Via del Babuino, oppure metro A (fermata Barberini), oppure bus Atac n.61 da Piazzale Flaminio",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "23 min",
+            "metro_piedi": "12 min",
+            "distanza_km": 1.6
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "IV. Via Veneto",
+              "brano_completo": "Via Veneto - IV movimento",
+              "compositore": "Nino Rota",
+              "durata_sec": 167,
+              "tonalita": "Fa minore → Do minore",
+              "descrizione_musicale": "Brano elegante e vivace, che rappresenta la mondanità di Via Veneto. Il ritmo leggero e i richiami al jazz evocano la vita notturna e il movimento della città. Sotto la brillantezza si percepisce però una lieve malinconia.",
+              "carattere": "Elegante, vivace, leggermente malinconico",
+              "spotify_url": "https://open.spotify.com/intl-it/track/0YaYrxHwsSClKfiUu9Eq7p?si=7973c6f3d3a34101",
+              "youtube_url": "https://youtu.be/64GDhYZaXX0?si=FgA3YvcYd5ySu9Yk",
+              "note_ascolto": "Prova a immaginare la scena: una strada piena di luci, persone e vita notturna."
+            },
+            "letteratura": {
+              "citazione": "La dolce vita non è dolce",
+              "autore": "Federico Fellini",
+              "opera": "Intervista sul film La Dolce Vita",
+              "anno": 1960,
+              "contesto": "Fellini la usa per chiarire il senso del titolo, che è volutamente ironico: la “dolce vita” non è davvero felice o appagante. Nel film, ambientato proprio tra luoghi come Via Veneto, si vedono personaggi immersi nel lusso, nelle feste e nella vita mondana, ma vuoti, inquieti e incapaci di trovare un vero significato."
+            },
+            "atmosfera": {
+              "momento": "tramonto",
+              "luce": "dorata, arancione, violacea",
+              "suoni_ambiente": [
+                "Suoni di sottofondo dalla musica soft dei locali",
+                "Rumore delle automobili e dei motorini",
+                "Conversazioni e risate dei passanti",
+                "Suono di bicchieri e posate nei bar e ristoranti all'aperto"
+              ],
+              "temperatura_stimata": "21-26°C (caldo serale)",
+              "affollamento": "medio-alto (ora dell'aperitivo)",
+              "consiglio_fotografico": "Golden hour perfetta. Sfrutta la luce calda per ritratti, dettagli architettonici e scene di vita quotidiana. Un obiettivo con apertura ampia ti aiuterà a catturare l'atmosfera intima dei locali.",
+              "emozione_target": "Allegria, meraviglia, libertà, vivacità"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Eclettico, Art Nouveau, Umbertino",
+              "architetto": "Gaetano Koch (progetto generale), vari architetti per i singoli edifici come Marcello Piacentini e Carlo Pincherle",
+              "anno_costruzione": "1886-1920",
+              "committente": "Principe Rodolfo Boncompagni Ludovisi",
+              "descrizione": "Via Veneto è una strada situata nel rione Ludovisi di Roma, lunga circa 1 km, che collega Piazza Barberini a Porta Pinciana. È fiancheggiata da alberghi, caffè storici e negozi, e attraversata da marciapiedi, corsie per auto e piste ciclabili. La via è caratterizzata da edifici in stile umbertino e da alberature lungo i lati, ed è nota per essere un centro della vita mondana della città.",
+              "artisti_ospitati": ["Fellini", "Dalì", "Sinatra", "Ernest Hemingway"]
+            }
+          },
+          "storia": "Via Vittorio Veneto nasce alla fine del XIX secolo come parte del progetto di espansione urbana di Roma. Il nome è stato scelto in onore della vittoria italiana nella battaglia di Vittorio Veneto durante la Prima Guerra Mondiale. Negli anni '50 e '60, la via diventa il simbolo della “dolce vita” romana, frequentata da celebrità internazionali, registi, attori e artisti. Oggi è ancora un luogo di grande fascino e vivacità, con una storia che si intreccia con quella della città stessa.",
+          "curiosita": "Proprio all'inizio della via, sotto la Chiesa di Santa Maria della Concezione, c'è uno dei luoghi più macabri e affascinanti del mondo: la Cripta dei Cappuccini. Le pareti sono interamente decorate con le ossa di circa 4.000 frati cappuccini",
+          "connessione_fellini": "Fellini ha trascorso gran parte della sua giovinezza in questa zona, e molti dei suoi film sono ambientati in Via Veneto. La via rappresenta per lui un simbolo della “dolce vita” romana.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "Sempre accessibile, ma i locali hanno orari variabili (dalle 10:00 alle 02:00 circa)",
+            "orari_speciali_tramonto": "18:00-20:00 (ora dell'aperitivo, momento di maggiore vivacità)",
+            "servizi": ["bar", "ristoranti", "negozi di lusso", "hotel di alta classe"]
+          }
+        }
+      ],
+      "mappa_percorso": {
+        "polyline_encoded": "urs~FysbkAiPkM{JqGyMgAgGqC_DeCqBsAwGM@wAIoK}Hh@qC}PuJdCaCiNrBhO}_AdZjXo]zAgB[{Ah@QMaAS[Dk@PUJW@SQUxFuMiA[oAyGwGoP",
+        "colore_percorso": "#e74c3c",
+        "stile_linea": "dashed"
+      },
+      "consigli_pratici": [
+        "Portare bottiglia d'acqua riutilizzabile (fontanelle romane lungo il percorso)",
+        "Scarpe comode obbligatorie (5.5 km a piedi)",
+        "Cappello e crema solare per mezzogiorno",
+        "Cuffie di buona qualità per ascoltare la musica",
+        "Considerare pausa pranzo dopo Fontana di Trevi (molti ristoranti in zona)"
+      ],
+      "migliore_periodo_anno": "Aprile-Maggio, Giugno, Settembre",
+      "sconsigliato": ["Piena estate (troppo caldo a mezzogiorno)", "Gennaio-Febbraio (alba troppo tarda e temperature basse)"],
+      "cosa_portare": [
+        "Smartphone con app mappe",
+        "Cuffie/auricolari",
+        "Bottiglia acqua",
+        "Cappello",
+        "Crema solare",
+        "Snack energetici",
+        "Batteria portatile"
+      ]
+    }
+  ]
+}
